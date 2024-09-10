@@ -5,3 +5,9 @@ Inventory Management System, where the Crud operation is perform using Hiberanat
 
 2. Adding new product in Inventory
 ![addoperation](https://github.com/user-attachments/assets/998032fa-822a-4810-a3d7-6fa97f86d937)
+
+3. Show all products of Inventory
+
+
+
+4. Removing the product from Inventory
