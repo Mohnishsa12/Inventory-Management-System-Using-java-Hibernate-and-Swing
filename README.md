@@ -10,3 +10,4 @@ Inventory Management System, where the Crud operation is perform using Hiberanat
 ![updateOperation](https://github.com/user-attachments/assets/5401dc65-e4f7-4313-8e10-4512c9b10646)
 
 4. Removing the product from Inventory
+![deleteOpeartion](https://github.com/user-attachments/assets/fd1ca366-7e9c-4862-aab0-f1bf620da1ae)
