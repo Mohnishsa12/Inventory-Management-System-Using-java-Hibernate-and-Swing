@@ -1,5 +1,12 @@
 # Inventory-Management-System-Using-java-Hibernate-and-Swing
-Inventory Management System, where the Crud operation is perform using Hiberanate
+Inventory Management System, is a Desktop application which is design to manage the product inventry.
+build using java and swing for user interface, user can perform crud operation, in this applicatiion also user can see the available products.
+Technologies:
+Java Swing: For the graphical user interface (GUI).
+Hibernate: For object-relational mapping and data persistence.
+MySQL: For the database storage.
+
+
 1. Front page of GUI
 ![frontPage](https://github.com/user-attachments/assets/98d21c96-52d0-4f89-93cc-e6e75135c1dc)
 
