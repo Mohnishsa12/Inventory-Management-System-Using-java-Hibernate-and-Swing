@@ -7,7 +7,6 @@ Inventory Management System, where the Crud operation is perform using Hiberanat
 ![addoperation](https://github.com/user-attachments/assets/998032fa-822a-4810-a3d7-6fa97f86d937)
 
 3. Show all products of Inventory
-
-
+![updateOperation](https://github.com/user-attachments/assets/5401dc65-e4f7-4313-8e10-4512c9b10646)
 
 4. Removing the product from Inventory
